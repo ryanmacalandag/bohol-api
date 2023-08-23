@@ -1,0 +1,22 @@
+{
+    "towns": [
+        {
+            "id": 0,
+            "name": "Alburquerque",
+            "founded": "June 9, 1868",
+            "area": "26.98",
+            "fiesta": "May 4",
+            "saint": "Saint Monica",
+            "zipcode": "6302"
+        },
+        {
+            "id": 1,
+            "name": "Alicia",
+            "founded": "January 18, 1950",
+            "area": "114.50",
+            "fiesta": "July 26",
+            "saint": "Saint Joachim",
+            "zipcode": "6314"
+        }
+    ]
+}
