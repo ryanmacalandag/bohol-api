@@ -15,5 +15,8 @@
   "homepage": "https://github.com/ryanmacalandag/bohol-api#readme",
   "dependencies": {
     "json-server": "^0.17.3"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanmacalandag/bohol-api/issues"
   }
 }
