@@ -7,7 +7,8 @@
             "area": "26.98",
             "fiesta": "May 4",
             "saint": "Saint Monica",
-            "zipcode": "6302"
+            "zipcode": "6302",
+            "website": "www.alicia-bohol.gov.ph"
         },
         {
             "id": 1,
@@ -16,7 +17,8 @@
             "area": "114.50",
             "fiesta": "July 26",
             "saint": "Saint Joachim",
-            "zipcode": "6314"
+            "zipcode": "6314",
+            "website": "www.alicia-bohol.gov.ph"
         }
     ]
 }
